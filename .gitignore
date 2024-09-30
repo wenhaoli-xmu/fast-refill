@@ -1,0 +1,22 @@
+# logs
+log/
+wandb/
+
+# checkpoints
+ckp/
+*.pth
+
+# datasets
+mmlu/
+LongBench/
+raw_data/
+data/
+data_cache/
+
+# misc
+tokenmix.egg-info
+*.jpg
+*.png
+*.json
+visualize/
+__pycache__
