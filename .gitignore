@@ -17,6 +17,5 @@ data_cache/
 tokenmix.egg-info
 *.jpg
 *.png
-*.json
 visualize/
 __pycache__
