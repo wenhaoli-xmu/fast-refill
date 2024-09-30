@@ -22,7 +22,7 @@ $ git clone https://github.com/wenhaoli-xmu/fast-prefill.git
 
 **Instsall Repo**
 ```
-$ cd fast-preill/tokenmix
+$ cd fast-preill
 $ pip install -e .
 ```
 
